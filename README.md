@@ -62,28 +62,27 @@ Specialties: ["Divination through Debugging", "Ritualistic Refactoring", "Mystic
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+
+
 </div>
 
 ---
 
-🎪 The Fool's GitHub Circus
+## 🎪 **The Fool's GitHub Circus**
+
 <div align="center">
-📊 Mystical Statistics
-<!-- GitHub Stats - Replace with your actual username if different -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&icon_color=8B5A2B&border_color=30363d"/>
+
+### **📊 Mystical Statistics**
+
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jadehaerys&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&icon_color=8B5A2B&border_color=30363d"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadehaerys&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&border_color=30363d"/>
-🔥 Commit Flame
+
+### **🔥 Commit Flame**
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jadehaerys&theme=dark&background=0d1117&ring=8B5A2B&fire=8B5A2B&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8B5A2B&sideLabels=c9d1d9&stroke=30363d"/>
-<!-- Alternative: Manual Stats Display -->
-⚡ Current Mystical Progress
-🔮 Total Repositories: XX
-⭐ Stars Earned: XX  
-🍴 Forks Created: XX
-👥 Followers: XX
-📊 Contributions this year: XXX
 
 ### **📈 Activity Graph**
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=github-dark&bg_color=0d1117&color=c9d1d9&line=8B5A2B&point=8B5A2B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jadehaerys&theme=github-dark&bg_color=0d1117&color=c9d1d9&line=8B5A2B&point=8B5A2B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -93,8 +92,8 @@ Specialties: ["Divination through Debugging", "Ritualistic Refactoring", "Mystic
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=repository1&theme=dark&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&icon_color=8B5A2B&border_color=30363d)](https://github.com/YourUsername/repository1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=repository2&theme=dark&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&icon_color=8B5A2B&border_color=30363d)](https://github.com/YourUsername/repository2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jadehaerys&repo=repository1&theme=dark&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&icon_color=8B5A2B&border_color=30363d)](https://github.com/Jadehaerys/repository1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jadehaerys&repo=repository2&theme=dark&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&icon_color=8B5A2B&border_color=30363d)](https://github.com/Jadehaerys/repository2)
 
 </div>
 
@@ -109,10 +108,8 @@ Specialties: ["Divination through Debugging", "Ritualistic Refactoring", "Mystic
 The Fool is always ready for communication..."
 ```
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jade-mykel-r-ventic)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmykelvenz@gmail.com)
 
 </div>
 
@@ -157,7 +154,7 @@ The Fool is always ready for communication..."
 ⚡ "In mysteries we code, in bugs we debug, in commits we trust." ⚡
 ```
 
-<img src="https://komarev.com/ghpvc/?username=YourUsername&label=Visitors%20from%20the%20Spirit%20World&color=8B5A2B&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Jadehaerys&label=Visitors%20from%20the%20Spirit%20World&color=8B5A2B&style=flat-square" alt="Profile Views" />
 
 </div>
 
