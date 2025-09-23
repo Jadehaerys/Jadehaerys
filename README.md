@@ -74,12 +74,19 @@ Specialties: ["Divination through Debugging", "Ritualistic Refactoring", "Mystic
 
 ### **📊 Mystical Statistics**
 
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jadehaerys&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&icon_color=8B5A2B&border_color=30363d"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadehaerys&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&border_color=30363d"/>
+
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jadehaerys&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&icon_color=8B5A2B&border_color=30363d&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jadehaerys&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&border_color=30363d&cache_seconds=86400"/>
 
 ### **🔥 Commit Flame**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jadehaerys&theme=dark&background=0d1117&ring=8B5A2B&fire=8B5A2B&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8B5A2B&sideLabels=c9d1d9&stroke=30363d"/>
+<!-- Multiple alternatives for streak stats -->
+<img src="https://streak-stats.demolab.com/?user=Jadehaerys&theme=dark&background=0d1117&ring=8B5A2B&fire=8B5A2B&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8B5A2B&sideLabels=c9d1d9&stroke=30363d&cache_seconds=86400"/>
+<!-- Fallback: Manual Commit Display -->
+### **⚡ Mystical Contributions**
+🔮 Current Streak: Building the mystical path...
+⭐ Total Contributions: Weaving fate through code
+🌙 Best Streak: The Fool's longest ritual
+📊 This Year: Ascending through sequences
 
 ### **📈 Activity Graph**
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jadehaerys&theme=github-dark&bg_color=0d1117&color=c9d1d9&line=8B5A2B&point=8B5A2B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
