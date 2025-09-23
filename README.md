@@ -66,17 +66,21 @@ Specialties: ["Divination through Debugging", "Ritualistic Refactoring", "Mystic
 
 ---
 
-## 🎪 **The Fool's GitHub Circus**
-
+🎪 The Fool's GitHub Circus
 <div align="center">
-
-### **📊 Mystical Statistics**
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&icon_color=8B5A2B&border_color=30363d"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&border_color=30363d"/>
-
-### **🔥 Commit Flame**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark&background=0d1117&ring=8B5A2B&fire=8B5A2B&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8B5A2B&sideLabels=c9d1d9&stroke=30363d"/>
+📊 Mystical Statistics
+<!-- GitHub Stats - Replace with your actual username if different -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&icon_color=8B5A2B&border_color=30363d"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadehaerys&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&border_color=30363d"/>
+🔥 Commit Flame
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jadehaerys&theme=dark&background=0d1117&ring=8B5A2B&fire=8B5A2B&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8B5A2B&sideLabels=c9d1d9&stroke=30363d"/>
+<!-- Alternative: Manual Stats Display -->
+⚡ Current Mystical Progress
+🔮 Total Repositories: XX
+⭐ Stars Earned: XX  
+🍴 Forks Created: XX
+👥 Followers: XX
+📊 Contributions this year: XXX
 
 ### **📈 Activity Graph**
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=github-dark&bg_color=0d1117&color=c9d1d9&line=8B5A2B&point=8B5A2B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
