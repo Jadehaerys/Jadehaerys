@@ -35,11 +35,11 @@ Specialties: ["Divination through Debugging", "Ritualistic Refactoring", "Mystic
 | **Sequence** | **Language/Technology** | **Mastery Level** | **Mystical Properties** |
 |:------------:|:----------------------:|:-----------------:|:----------------------:|
 | ⚡ | **JavaScript** | ████████░░ 80% | *Spirit World Navigation* |
-| 🌙 | **Python** | ███████░░░ 70% | *Fate Manipulation* |
+| 🌙 | **JAVA** | ███████░░░ 70% | *Fate Manipulation* |
 | 🗡️ | **React** | ████████░░ 80% | *Historical Projection* |
 | 🎯 | **Node.js** | ██████░░░░ 60% | *Dream Weaving* |
-| 🌊 | **TypeScript** | █████░░░░░ 50% | *Probability Storm* |
-| 🔥 | **Docker** | ████░░░░░░ 40% | *Mirror World* |
+| 🌊 | **PHP** | █████░░░░░ 50% | *Probability Storm* |
+| 🔥 | **TypeScript** | ████░░░░░░ 40% | *Mirror World* |
 
 </div>
 
@@ -61,11 +61,6 @@ Specialties: ["Divination through Debugging", "Ritualistic Refactoring", "Mystic
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **🌫️ DevOps Divination**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
