@@ -72,16 +72,6 @@ Specialties: ["Divination through Debugging", "Ritualistic Refactoring", "Mystic
 
 <div align="center">
 
-### **📊 Mystical Statistics**
-
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jadehaerys&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&icon_color=8B5A2B&border_color=30363d&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jadehaerys&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&border_color=30363d&cache_seconds=86400"/>
-
-### **🔥 Commit Flame**
-<!-- Multiple alternatives for streak stats -->
-<img src="https://streak-stats.demolab.com/?user=Jadehaerys&theme=dark&background=0d1117&ring=8B5A2B&fire=8B5A2B&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8B5A2B&sideLabels=c9d1d9&stroke=30363d&cache_seconds=86400"/>
-<!-- Fallback: Manual Commit Display -->
 ### **⚡ Mystical Contributions**
 🔮 Current Streak: Building the mystical path...
 ⭐ Total Contributions: Weaving fate through code
