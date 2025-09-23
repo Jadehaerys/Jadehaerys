@@ -89,8 +89,8 @@ Specialties: ["Divination through Debugging", "Ritualistic Refactoring", "Mystic
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jadehaerys&repo=repository1&theme=dark&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&icon_color=8B5A2B&border_color=30363d)](https://github.com/Jadehaerys/repository1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jadehaerys&repo=repository2&theme=dark&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&icon_color=8B5A2B&border_color=30363d)](https://github.com/Jadehaerys/repository2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jadehaerys&repo=ScrapBookBaby&theme=dark&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&icon_color=8B5A2B&border_color=30363d)](https://github.com/Jadehaerys/ScrapBookBaby)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jadehaerys&repo=BabyloveGenerator&theme=dark&bg_color=0d1117&title_color=8B5A2B&text_color=c9d1d9&icon_color=8B5A2B&border_color=30363d)](https://github.com/Jadehaerys/BabyloveGenerator)
 
 </div>
 
