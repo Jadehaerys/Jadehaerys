@@ -78,8 +78,13 @@ Specialties: ["Divination through Debugging", "Ritualistic Refactoring", "Mystic
 🌙 Best Streak: The Fool's longest ritual
 📊 This Year: Ascending through sequences
 
+### **🔥 GitHub Streaks**
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jadehaerys&theme=dark&background=0d1117&ring=8B5A2B&fire=8B5A2B&currStreakLabel=8B5A2B)](https://git.io/streak-stats)
+
 ### **📈 Activity Graph**
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jadehaerys&theme=github-dark&bg_color=0d1117&color=c9d1d9&line=8B5A2B&point=8B5A2B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-8B5A2B?style=for-the-badge&logo=vercel&logoColor=white)](https://jmykelvenz-portfolio.vercel.app)
 
 </div>
 
