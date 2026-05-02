@@ -244,7 +244,7 @@ This portfolio itself, built with React, Vite, TypeScript, and Tailwind CSS.
 [![Portfolio](https://img.shields.io/badge/Portfolio-jmykelvenz--portfolio.vercel.app-2A6B57?style=for-the-badge&logo=vercel&logoColor=white)](https://jmykelvenz-portfolio.vercel.app)
 [![Tuon](https://img.shields.io/badge/Product-tuon.net-C05A2A?style=for-the-badge&logo=vercel&logoColor=white)](https://tuon.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jade-mykel-r-ventic-71bb582a2)
-[![Email](https://img.shields.io/badge/Email-support%40tuon.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@tuon.net)
+[![Email](https://img.shields.io/badge/Email-support%40tuon.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmykelvenz@gmail.com)
 
 <br/>
 
