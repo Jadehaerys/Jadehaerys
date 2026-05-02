@@ -1,6 +1,7 @@
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=28&duration=3000&pause=1000&color=2A6B57&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jade+Ventic.;Student+Founder+%26+Developer.;Building+education+software+that+gets+used.;Based+in+Cebu%2C+Philippines.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=28&duration=3000&pause=1000&color=2A6B57&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jade+Ventic.;Student+Founder+%26+Developer.;Building+education+software+that+gets+used.;Based+in+Cebu%2C+Philippines.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,7 +27,7 @@ Cebu, Philippines · Armonia Information Technology Services
 
 </div>
 
-I started building [Tuon](https://tuon.net) because I wanted a study tool that actually worked, and because I wanted to know if I could ship a real product from scratch. Since then, I've worked across the full product surface — frontend, backend, payments, legal, deployment, and everything in between. I'm a Dean's Lister, honor graduate, and student leader who takes more pride in what's shipped than grades on paper.
+I started building [Tuon](https://tuon.net) because I wanted a study tool that actually worked, and because I wanted to know if I could ship a real product from scratch. Since then, I've worked across the full product surface - frontend, backend, payments, legal, deployment, and everything in between. I'm a Dean's Lister, honor graduate, and student leader who takes more pride in what's shipped than grades on paper.
 
 ---
 
@@ -188,7 +189,7 @@ This portfolio itself, built with React, Vite, TypeScript, and Tailwind CSS.
 
 | <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f5a5.svg" width="16"/> Frontend Product Development | <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f9ed.svg" width="16"/> Interface Design Thinking |
 |---|---|
-| Building React interfaces with real users in mind. Accessibility, responsiveness, and interaction quality are part of the spec. | Information architecture, user flows, and visual hierarchy — decisions made in service of the product goal, not aesthetics. |
+| Building React interfaces with real users in mind. Accessibility, responsiveness, and interaction quality are part of the spec. | Information architecture, user flows, and visual hierarchy - decisions made in service of the product goal, not aesthetics. |
 
 | <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f512.svg" width="16"/> Auth & Account Flows | <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f916.svg" width="16"/> AI-Powered Workflows |
 |---|---|
@@ -200,7 +201,7 @@ This portfolio itself, built with React, Vite, TypeScript, and Tailwind CSS.
 
 | <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4c4.svg" width="16"/> Privacy & Compliance-Aware Execution | <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f3af.svg" width="16"/> Product Thinking & Execution |
 |---|---|
-| Legal pages, privacy-first data handling, and responsible product design built in from day one — not bolted on later. | Defining what to build and why. Scoping features, making tradeoffs, and moving from idea to shipped with real structure. |
+| Legal pages, privacy-first data handling, and responsible product design built in from day one - not bolted on later. | Defining what to build and why. Scoping features, making tradeoffs, and moving from idea to shipped with real structure. |
 
 ---
 
@@ -214,7 +215,7 @@ This portfolio itself, built with React, Vite, TypeScript, and Tailwind CSS.
     Every extra tap, every confusing label, every slow response costs attention.
 
 03  Ship with intention, not just speed.
-    Understand the implications before launch — legally, technically, and for the people using it.
+    Understand the implications before launch - legally, technically, and for the people using it.
 
 04  Design for the person using it.
     Not for the portfolio reviewer. For the student at midnight trying to pass an exam tomorrow.
@@ -250,3 +251,4 @@ This portfolio itself, built with React, Vite, TypeScript, and Tailwind CSS.
 <sub>"We are all fools, but some of us commit to main."</sub>
 
 </div>
+
